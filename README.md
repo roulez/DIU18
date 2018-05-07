@@ -1,3 +1,9 @@
+Nombre Grupo: IAA
+Autores: Alexandra-Diana Dumitru y José Manuel Pérez Carrasco
+Grupo: 3ºA2
+
+Enlace: https://roulez.github.io/AgendaUGR
+
 # DIU18
 Prácticas Diseño Interfaces de Usuario 2017-18 (Agenda cultural)
 
